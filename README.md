@@ -85,7 +85,7 @@ From the combined dashboard pages, the following key insights can be derived:
   - HR should explore **compensation benchmarking, promotion pathways, and work–life balance initiatives**.
 
 - **Opportunities for Proactive HR Action**  
-  - Targeted interventions—such as **career development programs**, **manager performance reviews**, and **strategic recruitment efforts**—can help reduce attrition and improve workforce stability.
+  - Targeted interventions, such as **career development programs**, **manager performance reviews**, and **strategic recruitment efforts**, can help reduce attrition and improve workforce stability.
 
 
 
